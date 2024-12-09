@@ -35,12 +35,10 @@ Este programa implementa un **juego de tres en raya** en Java, donde el jugador 
 ## Ejemplo de juego
 1. Inicia el programa y acepta jugar (`S`).
 2. El tablero se muestra inicialmente vacío:
-
-
+   
 |   #   |   #   |   #   |
 |-------|-------|-------|
 |   #   |   #   |   #   |
-|-------|-------|-------|
 |   #   |   #   |   #   |
 
 
