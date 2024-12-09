@@ -46,10 +46,33 @@ Este programa implementa un **juego de tres en raya** en Java, donde el jugador 
 4. La máquina responde colocando su ficha en una casilla vacía seleccionada aleatoriamente.
 5. El juego continúa hasta que haya un ganador o un empate.
 
-## Requisitos
-- **Java 8** o superior.
-- Un entorno de desarrollo como **Eclipse**, **IntelliJ IDEA**, o la línea de comandos con el compilador de Java.
 
+## **Requisitos**
+
+### **Software necesario**
+- **Java Runtime Environment (JRE):**
+  - Versión mínima recomendada: `17`.
+  - [Descargar JRE](https://www.oracle.com/java/technologies/javase-downloads.html) si no está instalado.
+
+---
+
+## **Cómo ejecutar el juego**
+
+### **Desde la terminal:**
+
+1. Descarga el archivo `3EnRaya.jar` desde el repositorio.
+2. Ubica el archivo en una carpeta de tu elección.
+3. Abre la terminal (CMD) y navega al directorio donde está ubicado:
+   ```cmd
+   cd C:\ruta\del\archivo
+   ```
+
+4. Ejecuta el siguiente comando:
+   ```cmd
+   java -jar 3EnRaya.jar
+   ```
+
+   
 ## Créditos
 Este programa fue desarrollado como un ejercicio de implementación de lógica de juegos en Java. Es una versión simplificada de un juego clásico que pone en práctica conceptos básicos de programación orientada a objetos.
 
